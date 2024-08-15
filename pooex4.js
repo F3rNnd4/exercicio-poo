@@ -1,7 +1,7 @@
 const restaurante = {
     nome: "Mar Dourado Sushi",
     tipoCozinha: "Japonesa",
-    localização: "Valinhos, São Paulo"
+    localizacao: "Valinhos, São Paulo"
 };
 
 console.log(restaurante);
